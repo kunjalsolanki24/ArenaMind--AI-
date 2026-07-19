@@ -1,0 +1,20 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/dashboard/accessibility/page": "/dashboard/accessibility",
+  "/dashboard/ai-copilot/page": "/dashboard/ai-copilot",
+  "/dashboard/crowd-analytics/page": "/dashboard/crowd-analytics",
+  "/dashboard/map/page": "/dashboard/map",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/profile/page": "/dashboard/profile",
+  "/dashboard/reports/page": "/dashboard/reports",
+  "/dashboard/settings/page": "/dashboard/settings",
+  "/dashboard/smart-navigation/page": "/dashboard/smart-navigation",
+  "/dashboard/volunteer-hub/page": "/dashboard/volunteer-hub",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/register/page": "/register",
+  "/role-selection/page": "/role-selection",
+  "/sitemap.xml/route": "/sitemap.xml"
+}
